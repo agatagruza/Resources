@@ -12,13 +12,21 @@
 > https://www.fast.ai/
 
 
+### fast.ai new NLP course 
+> https://twitter.com/math_rachel/status/1148267812479070208?s=12 
+> https://www.fast.ai/2019/07/08/fastai-nlp/
+
+
 ### From UDACITY
 > https://classroom.udacity.com/courses/ud188
-
-
 Lesson 7 - Recurrent Neural Network
 Lesson 8 - Sentiment Prediction RNN
 This course is like an extended version of our lecture 2 - Neural Networks in PyTroch, and the above lessons might be a good way to familiarise with NLP using PyTorch
+
+
+### UDACITY NLP with PyTorch
+> https://trello.com/b/lYQwQojM/udacity-nlp-with-pytorch
+
 
 ### XLNet
 > https://mlexplained.com/2019/06/30/paper-dissected-xlnet-generalized-autoregressive-pretraining-for-language-understanding-explained/
@@ -35,5 +43,7 @@ This is a very good article explaining BERT:
 
 ### Adaptors
 > https://medium.com/dair-ai/adapters-a-compact-and-extensible-transfer-learning-method-for-nlp-6d18c2399f62
+
+
 
 

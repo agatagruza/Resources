@@ -19,6 +19,7 @@
 
 ### From UDACITY
 > https://classroom.udacity.com/courses/ud188
+
 Lesson 7 - Recurrent Neural Network
 Lesson 8 - Sentiment Prediction RNN
 This course is like an extended version of our lecture 2 - Neural Networks in PyTroch, and the above lessons might be a good way to familiarise with NLP using PyTorch
